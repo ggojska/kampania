@@ -7,7 +7,7 @@ Dzieci Korzeni wierzą, że las jest żyjącą istotą, a każda jego część �
 - **Prawo Równowagi**: Każda ingerencja w naturę musi być zrównoważona. Jeśli coś zostaje wzięte z lasu, coś innego musi być zwrócone.
 - **Korzenie jako Pamięć Świata**: Dzieci Korzeni wierzą, że w korzeniach drzew przechowywana jest pamięć dawnych czasów, a ich rytuały często polegają na "rozmowach" z tym pradawnym, podziemnym archiwum.
 - **Wieczny cykl życia**: Druidzi wierzą w reinkarnację i to, że po śmierci ich energia jest wchłaniana przez las, żeby zapewnić przetrwanie.
-- **Serce Lasu**: Członkowie klanu wierzą, że w samym sercu Lasu Xarn znajduje się potężne źródło energii – "Korzeń Świata". To z niego czerpią siłę do ochrony lasu.
+- **Serce Lasu**: Członkowie klanu wierzą, że w samym sercu Lasu Xarn znajduje się potężne źródło energii – "Korzeń Świata" - Wielkie drzewo o nazwie [[Elgarwyn|Elgarwyn Korzenna Dłoń]]. To z niego czerpią siłę do ochrony lasu.
 
 ### **Struktura i Hierarchia**
 
