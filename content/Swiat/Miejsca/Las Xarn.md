@@ -18,4 +18,4 @@ Las Xarn to ogromne, prastare miejsce, gdzie natura i magia splatają się w nie
     W głębi lasu można odnaleźć ruiny zapomnianych świątyń i ołtarzy. Niektóre z nich wciąż są naładowane potężną magią, a inne stanowią przejścia do innych wymiarów, gdzie czas płynie w sposób zupełnie obcy śmiertelnikom.
 
 #### Fauna Lasu Xarn:
-1. W lesie żyją niezwykłe stworzenia – od wędrownych duchów świetlistych motyli po mityczne bestie, takie jak [[Fenril]]e. 
+1. W lesie żyją niezwykłe stworzenia – od wędrownych duchów świetlistych motyli po mityczne bestie, takie jak [[Fenril]]e, [[Runorożec|Runorożce]] czy [[Leśna Chimera|Leśne Chimery]].
