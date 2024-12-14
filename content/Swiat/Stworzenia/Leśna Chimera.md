@@ -1,8 +1,8 @@
-## Wygląd i cechy szczególne
-Czarne jak noc jednorożce o srebrnym rogu pokrytym runicznymi wzorami, które delikatnie świecą w mroku.
+## **Wygląd i cechy szczególne**
+Hybrydyczne stworzenia z cechami kilku zwierząt – na przykład ciała wilka, skrzydeł orła i wężowego ogona.
 
-![[Lesna_chimera.jpg]]
-## Zachowanie 
-Te samotnicze stworzenia pojawiają się tylko w najciemniejszych zakątkach lasu. Są wyjątkowo płochliwe, ale mogą pomóc wędrowcom w potrzebie, jeśli wyczują ich czyste serca.
-## Magiczne właściwości
-Dotknięcie ich rogu ma moc rozpraszania iluzji i ochrony przed klątwami.
+![[lesna_chimera.jpg]]
+## **Zachowanie** 
+Rzadkie, ale niezwykle niebezpieczne, szczególnie dla intruzów naruszających starożytne ruiny w [[Las Xarn|Xarn]]. Chimery są uznawane za strażników lasu.
+## **Magiczne właściwości**
+Ich pióra, łuski i kły są używane w potężnych zaklęciach.
