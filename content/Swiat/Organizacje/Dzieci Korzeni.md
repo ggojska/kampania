@@ -7,7 +7,7 @@ Dzieci Korzeni wierzą, że las jest żyjącą istotą, a każda jego część �
 - **Prawo Równowagi**: Każda ingerencja w naturę musi być zrównoważona. Jeśli coś zostaje wzięte z lasu, coś innego musi być zwrócone.
 - **Korzenie jako Pamięć Świata**: Dzieci Korzeni wierzą, że w korzeniach drzew przechowywana jest pamięć dawnych czasów, a ich rytuały często polegają na " rozmowach" z tym pradawnym, podziemnym archiwum.
 - **Wieczny cykl życia**: Druidzi wierzą w reinkarnację i to, że po śmierci ich energia jest wchłaniana przez las, żeby zapewnić przetrwanie.
-- **Serce Lasu**: W samym sercu Lasu Xarn znajduje się potężne źródło energii, wielkie drzewo o nazwie [[Elgarwyn (drzewo)|Elgarwyn Korzenna Dłoń]] podobno połączone bezpośrednio z [[Korzeń Świata|Korzeniem Świata]]. To z niego druidzi czerpią siłę do ochrony lasu.
+- **Serce Lasu**: W samym sercu Lasu Xarn znajduje się potężne źródło energii, wielkie drzewo o nazwie [[Elarion (drzewo)|Elarion]] podobno połączone bezpośrednio z [[Korzeń Świata|Korzeniem Świata]]. To z niego druidzi czerpią siłę do ochrony lasu.
 
 ## **Struktura i Hierarchia**
 
@@ -24,5 +24,5 @@ Dzieci Korzeni odrzucają formalne hierarchie, ale ich społeczność naturalnie
 
 ## **Legenda o Założycielach**
 
-Według podań, klan założył kapłan o imieniu **Elgarwyn Korzenna Dłoń**, który słyszał szept korzeni podczas snu. Twierdził, że duch lasu wybrał go, by strzegł jego sekretów. To on zapoczątkował tradycję słuchania korzeni, a jego imię nosi największe Drzewo Przodków, będące centrum duchowym klanu.
+Według podań, klan założył kapłan o imieniu [[Elarion Korzenna Dłoń]], który słyszał szept korzeni podczas snu. Twierdził, że duch lasu wybrał go, by strzegł jego sekretów. To on zapoczątkował tradycję słuchania korzeni, a jego imię nosi największe Drzewo Przodków, będące centrum duchowym klanu.
 
