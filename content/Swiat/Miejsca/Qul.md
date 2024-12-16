@@ -5,6 +5,7 @@ _– Obserwator z Plemienia Qulnara_
 - - -
 
 Dżungla Qul rozciąga się na północnych rubieżach świata, otaczając zapomniane ruiny pradawnych cywilizacji. Znajduje się w klimacie tropikalnym, a jej serce skrywa tajemnice nie tylko natury, ale także mocy nieznanych bogów. Zajmuje ogromny obszar, a jej granice pozostają nieznane, znikając w mgłach, które oplatają drzewa jak szal.
+
 - - -
 
 ## **Opis i Charakterystyka**
@@ -17,7 +18,7 @@ Dżungla Qul to gęsta, nieprzenikniona ściana zieleni, pełna roślinności, k
     - Gęsta roślinność, w której nie braknie trujących krzewów, drzew o ostrych kolcach, a także niezwykle rzadkich i drogocennych ziół.
     
 - **Zwierzęta:**
-    - Dżungla Qul jest domem dla nieznanych gatunków drapieżników, w tym mniejszych stworzeń, jak **Lśniące Węże**, których ciała odbijają światło księżyca, i **Skrzydlate Widzowie**, stwory przypominające ogromne nietoperze z błyszczącymi skrzydłami.
+    - Dżungla Qul jest domem dla nieznanych gatunków drapieżników, w tym mniejszych stworzeń, jak Lśniące Węże, których ciała odbijają światło księżyca, i Skrzydlate Widzowie, stwory przypominające ogromne nietoperze z błyszczącymi skrzydłami.
     - **Bestie Cieni**, ogromne, pół-przezroczyste zwierzęta, których ciało wchłania światło, sprawiając, że znikają w półmroku dżungli, polując na wszelkie żywe istoty.
     
 - **Magia i Mistycyzm:**  

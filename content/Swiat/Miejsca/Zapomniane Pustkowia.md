@@ -27,6 +27,7 @@ Zapomniane Pustkowia były niegdyś kwitnącą krainą, pełną miast, farm i ś
 ## **Legenda**  
 Stare opowieści głoszą, że głęboko pod ziemią znajduje się **Źródło Plagi** – relikt lub istota, która sprowadziła śmierć na te ziemie. Niektórzy poszukiwacze przygód twierdzą, że odkrycie tego sekretu mogłoby zakończyć klątwę… lub uwolnić coś jeszcze gorszego.
 
+- - - 
 ## Próby Ekspedycji Zapomnianych Pustkowi
 
 #### 1. Pierwsza Ekspedycja Królewska (Rok 21 Po Pladze)
