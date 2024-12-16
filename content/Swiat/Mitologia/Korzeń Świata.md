@@ -1,5 +1,5 @@
 To istota lub fenomen, którego istnienie jednoczy różnorodne kręgi druidyczne, niezależnie od ich tradycji czy miejsca zamieszkania. Korzeń Świata jest dla druidów z różnych zakątków świata zarówno najświętszą tajemnicą, jak i największym cudem ich wiedzy. Choć Las Xarn jest miejscem, gdzie jego obecność wydaje się najsilniejsza, Korzeń Świata nie zna granic – jego esencja przenika każdą cząstkę ziemi, powietrza i wody, łącząc wszystkie żywe istoty w jedną, wspólną sieć życia.
-
+- - -
 ## **Czym jest Korzeń Świata?**
 
 Korzeń Świata jest czymś więcej niż tylko materialnym bytem. Dla jednych jest to żyjąca istota, o niepojętej świadomości, która zrodziła życie na świecie. Dla innych – nieskończona energia, która zasila każdy akt kreacji. Oto najważniejsze koncepcje związane z jego naturą:
@@ -12,7 +12,8 @@ Korzeń Świata jest czymś więcej niż tylko materialnym bytem. Dla jednych je
     
 3. **Źródło Życia i Magii**  
     Korzeń Świata jest uznawany za pierwotne źródło zarówno życia biologicznego, jak i magii naturalnej. Wszyscy, którzy używają magii związanej z ziemią, wodą czy roślinnością, czerpią pośrednio z jego energii.
-
+    
+- - -
 ## **Tajemnice Korzenia Świata**
 
 1. **Wieczna Sieć**  
@@ -26,7 +27,8 @@ Korzeń Świata jest czymś więcej niż tylko materialnym bytem. Dla jednych je
     
 4. **Pradawne Pieczęcie**  
     Niektóre historie mówią, że Korzeń Świata został uwięziony lub ograniczony przez dawnych bogów lub byty. Pieczęcie te miały zapobiec zniszczeniu świata przez niekontrolowaną moc Korzenia, ale jednocześnie odcięły część jego energii od świata.
-
+    
+- - -
 ## **Korzeń Świata w Tradycjach Druidycznych**
 #### Druidzi Lasu Xarn
 Dla druidów z Xarn Korzeń Świata jest czymś więcej niż ideą – to rzeczywisty byt, z którym mogą nawiązać kontakt. Wierzą, że najstarsze drzewa w ich lesie są bezpośrednimi odnogami Korzenia, a Krąg Korzeni wokół Drzewa Elarion jest jego "ekspresją" w fizycznym świecie.
@@ -38,6 +40,8 @@ Na dalekiej północy druidzi wierzą, że Korzeń Świata przybiera formę wiec
 Nawet na pustyniach druidzi czczą Korzeń Świata, widząc go w oazach, podziemnych rzekach i wiatrach, które rzeźbią wydmy. Dla nich Korzeń nie jest miejscem, lecz ciągłym procesem tworzenia i przemijania.
 #### Szamani z dżungli [[Qul]]
 Dla szamanów Korzeń Świata nie jest jedynie częścią ich praktyki, ale podstawą ich istnienia. Wierzą, że ich rolą jest dbanie o równowagę w naturze – nie tylko w dżungli, ale w całym świecie. Ich kontakt z Korzeniem Świata jest zarówno przywilejem, jak i ogromną odpowiedzialnością. Korzeń Świata dla szamanów dżungli to nieodłączna część ich codziennego życia – żywa moc, która nadaje sens istnieniu i pomaga im zachować harmonię z naturą.
+
+- - -
 
 ### **Korzeń Świata jako Istota**
 

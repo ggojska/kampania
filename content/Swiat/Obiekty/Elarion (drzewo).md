@@ -6,6 +6,7 @@ Drzewo Elarion jest monumentalne, o wysokości przewyższającej wszystkie inne 
 - **Pień**: Szeroki, pokryty gładką, srebrzystą korą, na której widać subtelne wzory przypominające pradawne runy.
 - **Korzenie**: Głębokie i rozległe, sięgają daleko pod ziemię, tworząc skomplikowaną sieć magicznych energii, które wzmacniają cały las.
 - **Liście**: Podobno nigdy nie opadają ani nie więdną. Każdy liść ma magiczne właściwości – można z nich wytwarzać eliksiry o potężnej mocy uzdrawiania i ochrony.
+- - -
 ## **Magiczne Właściwości**
 
 1. **Źródło Mocy**  
@@ -19,7 +20,7 @@ Drzewo Elarion jest monumentalne, o wysokości przewyższającej wszystkie inne 
     
 4. **Przyspieszanie Regeneracji**  
     Obszar wokół drzewa jest niezwykle żyzny – rośliny rosną tam szybciej, a rany i choroby magicznych stworzeń leczą się w jego cieniu. To miejsce, gdzie mieszkańcy lasu przybywają, by odnaleźć ukojenie.
-
+- - -
 ## **Relacje z Klanem**
 
 Drzewo Elarion jest zarówno duchowym przywódcą, jak i żywym sojusznikiem [[Dzieci Korzeni]]:
