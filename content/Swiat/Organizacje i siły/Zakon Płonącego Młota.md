@@ -1,5 +1,6 @@
 **„W płomieniach rodzi się prawda, w popiele kończy się zło.”**
 - - -
+![[PlonacyMlot.jpg|center|250]]
 ## **Filozofia i Wiara**
 
 Zakon Płonącego Młota to zakon paladynów, którzy czczą Wieczny Ogień – święty płomień symbolizujący czystość, odnowienie i nieustającą walkę ze złem. Dla członków zakonu ogień nie jest jedynie fizycznym zjawiskiem, lecz manifestacją boskiej mocy, która spala wszelką nieczystość i daje nadzieję na odrodzenie świata.
@@ -23,7 +24,7 @@ Adeptów przygotowuje się zarówno do walki, jak i do zrozumienia symboliki ogn
 - **Ogień:** Symbol duchowego oczyszczenia, boskiej mocy i życia wiecznego.
 - **Popiół:** Przypomnienie o kruchości zła, które zawsze zostaje spopielone przez światło.
 
-
+- - -
 
 **„W ogniu nie znajdziesz tylko zniszczenia – znajdziesz również siłę, by na nowo stworzyć świat.”**  
 _– Mistrz Płomienia Tharos Elden_
