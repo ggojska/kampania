@@ -1,7 +1,7 @@
 ## **Wygląd i cechy szczególne**
 Hybrydyczne stworzenia z cechami kilku zwierząt – na przykład ciała wilka, skrzydeł orła i wężowego ogona.
 
-![[lesna_chimera.jpg]]
+![[lesna_chimera.jpg|350]]
 ## **Zachowanie** 
 Rzadkie, ale niezwykle niebezpieczne, szczególnie dla intruzów naruszających starożytne ruiny w [[Las Xarn|Xarn]]. Chimery są uznawane za strażników lasu.
 ## **Magiczne właściwości**

@@ -1,5 +1,5 @@
 Elarion Korzenna Dłoń to postać otoczona legendami, której imię wybrzmiewa w każdym zakątku [[Las Xarn|Lasu Xarn]] jako symbol jedności natury i człowieka. Według podań to on założył klan **Dzieci Korzeni**, prowadząc pierwszych druidów ku harmonii z Lasem Xarn i jego magiczną esencją. Elarion jest uważany za pomost między światem śmiertelnych a duchami lasu, a jego mądrość i moc pozostają inspiracją dla kolejnych pokoleń strażników natury. Na jego cześć nazwano Wielkie Drzewo [[Elarion (drzewo)|Elarion]].
-
+![[Elarion.jpg|center|200]]
 ## **Życie Elariona**
 
 - **Pochodzenie**: Elarion pochodził z małej, zapomnianej osady na obrzeżach Lasu Xarn. Już jako dziecko odznaczał się niezwykłą empatią wobec przyrody – jego rodzice opowiadali, że potrafił "rozmawiać" z drzewami i przyciągać zwierzęta.
