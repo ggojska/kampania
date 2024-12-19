@@ -1,7 +1,7 @@
-Ten kolosalny mur otacza [[Zapomniane Pustkowia]]. Wysoki na 5 i szeroki na 2 metry, wykonany jest z szarego, niemal czarnego kamienia. Znaki runiczne wyryte na jego powierzchni świecą bladej nocy, co wskazuje na obecność starożytnej magii ochronnej. Jednak wiele runów jest dziś uszkodzonych.
+Ten kolosalny mur otacza [[Zapomniane Pustkowia]]. Wysoki na 5 i szeroki na 2 metry, wykonany jest z szarego, niemal czarnego kamienia. Znaki runiczne wyryte na jego powierzchni świecą bladą poświatą, co wskazuje na obecność starożytnej magii ochronnej. Jednak wiele run jest dziś uszkodzonych.
 - - -
 ## **Fort Reagana**  
-Na północnej części Muru Ciszy, wyrastając ponad szare bloki kamienia, stoi **Fort Reagana** – strażnica ostatnich żyjących strażników Muru. Jest to surowa, pozbawiona ozdób konstrukcja, która bardziej przypomina twierdzę oblężoną przez czas niż miejsce ochrony.
+Na północnej części Muru Ciszy, wyrastając ponad szaro-czarne bloki kamienia, stoi Fort Reagana – strażnica ostatnich żyjących strażników Muru. Jest to surowa, pozbawiona ozdób konstrukcja, która bardziej przypomina twierdzę oblężoną przez upływający czas niż miejsce ochrony.
 
 ##### **Cechy Fortu**
 

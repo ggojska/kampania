@@ -1,10 +1,10 @@
 
-**„Qul to miejsce, w którym granica między rzeczywistością a iluzją staje się niewyraźna. Wystarczy jedno złe posunięcie, by stać się częścią jej nieodwracalnej magii.”**  
+**„Qul to miejsce, w którym granica między rzeczywistością a iluzją staje się niewyraźna.”**  
 _– Obserwator z Plemienia Qulnara_
 
 - - -
 
-Dżungla Qul rozciąga się na północnych rubieżach świata, otaczając zapomniane ruiny pradawnych cywilizacji. Znajduje się w klimacie tropikalnym, a jej serce skrywa tajemnice nie tylko natury, ale także mocy nieznanych bogów. Zajmuje ogromny obszar, a jej granice pozostają nieznane, znikając w mgłach, które oplatają drzewa jak szal.
+Dżungla Qul rozciąga się na TODO(południowych?) rubieżach świata, otaczając zapomniane ruiny pradawnych cywilizacji. Jej serce skrywa tajemnice nie tylko natury, ale także mocy nieznanych bogów. Zajmuje ogromny obszar, a jej granice pozostają nieznane, znikając w mgłach, które oplatają drzewa jak szal.
 
 - - -
 
@@ -12,17 +12,15 @@ Dżungla Qul rozciąga się na północnych rubieżach świata, otaczając zapom
 
 Dżungla Qul to gęsta, nieprzenikniona ściana zieleni, pełna roślinności, która wydaje się żyć własnym rytmem. Gigantyczne drzewa o pnączach sięgających nieba przeplatają się z ogromnymi liśćmi, które pokrywają niemal każdy skrawek ziemi. W powietrzu unosi się wilgoć, a zapach ziemi i roślinności jest intensywniejszy niż w jakiejkolwiek innej dżungli.
 
-- **Roślinność:**
-    - Potężne drzewa o szerokich koronach, które prawie całkowicie blokują światło słoneczne, tworząc mroczny, niemal tajemniczy las.
-    - Egzotyczne rośliny, jak **Krwawa Orchidea** (roślina, której kwiaty przypominają krew), oraz **Róża Zatracenia**, której zapach wywołuje halucynacje.
-    - Gęsta roślinność, w której nie braknie trujących krzewów, drzew o ostrych kolcach, a także niezwykle rzadkich i drogocennych ziół.
+- **Roślinność**
+    - Potężne drzewa o szerokich koronach, które prawie całkowicie blokują światło słoneczne, tworząc tajemniczy, niemal mroczny las.
+    - Gęsta roślinność, w której nie braknie trujących krzewów, drzew o wielkich koronach i pnączach, a także niezwykle rzadkich i drogocennych ziół.
     
-- **Zwierzęta:**
-    - Dżungla Qul jest domem dla nieznanych gatunków drapieżników, w tym mniejszych stworzeń, jak Lśniące Węże, których ciała odbijają światło księżyca, i Skrzydlate Widzowie, stwory przypominające ogromne nietoperze z błyszczącymi skrzydłami.
-    - **Bestie Cieni**, ogromne, pół-przezroczyste zwierzęta, których ciało wchłania światło, sprawiając, że znikają w półmroku dżungli, polując na wszelkie żywe istoty.
+- **Bestie Cieni**
+    - W całej dżungli obecne są ogromne, pół-przezroczyste stworzenia, których ciało wchłania światło, sprawiając, że znikają w półmroku dżungli, polując na wszelkie żywe istoty.
     
-- **Magia i Mistycyzm:**  
-    Dżungla Qul jest również miejscem, gdzie natura i magia przenikają się. Niektóre rośliny mają właściwości magiczne, a ziemia sama w sobie jest pełna starych mocy. W nocy dżungla tętni nieznanymi rytmami, które mogą wprowadzić śmiałków w trans lub przemienić ich w coś, czego nie rozpozna już ani człowiek, ani bestia.
+- **Magia i Mistycyzm**  
+    - Dżungla Qul jest również miejscem, gdzie natura i magia przenikają się. Niektóre rośliny mają właściwości magiczne, a ziemia sama w sobie jest pełna starych mocy. W nocy dżungla tętni nieznanymi rytmami, które mogą wprowadzić śmiałków w trans lub przemienić ich w coś, czego nie rozpozna już ani człowiek, ani bestia.
     
 - - - 
 
@@ -44,4 +42,4 @@ Dżungla Qul jest zamieszkiwana przez różne plemiona, których tradycje i wier
     Szamani z Qul to mistrzowie kontaktu z duchami dżungli. Przewodzą rytuałami, używają halucynogennych roślin i rozmawiają z duchami roślin, zwierząt i pradawnymi bytami. Ich magia leczy i chroni, a ich słowo ma wielką moc w plemiennych sprawach. Są strażnikami tajemnic natury i równowagi.
     
 - **Strażnicy Cieni:**  
-    Cień jest ich jedynym towarzyszem, a ich życie jest związane z magią nieświadomości. Strażnicy Cieni to tajemnicze postacie, które wędrują po dżungli, oddzielając siebie od reszty świata, by pilnować równowagi między światem żywych a tym, co czai się w cieniu.
+    Cień jest ich jedynym towarzyszem, a ich życie jest związane z jego magią. Strażnicy Cieni to tajemnicze postacie, które wędrują po dżungli, oddzielając siebie od reszty świata, by zgłębiać wiedzę o cieniu zalegającym w dżungli.

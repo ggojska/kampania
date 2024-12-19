@@ -59,5 +59,5 @@ Stare opowieści głoszą, że głęboko pod ziemią znajduje się **Źródło P
 **Cel:** Nieujawniony. Oficjalnie – oczyszczenie Pustkowi z pozostałości nieumarłych i zabezpieczenie reliktów.  
 **Rezultat:**
 - 12 kapłanów i 40 paladynów weszło na pustkowia, niosąc relikwie i święte teksty.
-- Mimo powrotu większości uczestników ekspedycji jej wynik nie jest znany ze względu na utajnienie jej rezultatu przez
+- Mimo powrotu większości uczestników ekspedycji jej wynik nie jest znany ze względu na utajnienie jej rezultatu przez Zakon Płonącego Młota
 - Świadkowie opowiadają o świetlistych błyskach na niebie i dźwiękach przypominających rozdzierające krzyki.
