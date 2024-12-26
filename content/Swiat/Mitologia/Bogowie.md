@@ -26,4 +26,4 @@ Przedpierwsi nie są bytem, który rządzi światem w klasyczny sposób, narzuca
 
 **Morthar** -  jest jednym z najpotężniejszych bóstw domeny Śmierci. Czczony głównie przez nekromantów i kapłanów śmierci na całym świecie.
 
-**Veldara** - jest jednym z najpotężniejszych bóstw domeny Życia. Jego wyznawcami są druidzi
+**Veldara** - jest jednym z najpotężniejszych bóstw domeny Życia. Jej wyznawcami są druidzi i szamani czczący naturę i jej życiodajne moce.
