@@ -13,7 +13,7 @@ Nie jest jasne, skąd wzięła się Plaga. Niektórzy twierdzą, że była to ze
 Plaga dotykała żywych i martwych:
 
 - **Żywi:** Zarażeni umierali w męczarniach w ciągu kilku dni, ich ciała czerniały, a dusze zdawały się opuszczać świat, zanim śmierć zabrała ciało.
-- **Martwi:** Po śmierci powstawali jako bezmyślne, żądne krwi stworzenia, które atakowały wszystko na swojej drodze. Byli niemal niemożliwi do zabicia, chyba że przez całkowite zniszczenie ciała.
+- **Martwi:** Po śmierci powstawali jako bezmyślne, żądne krwi stworzenia, które atakowały wszystko na swojej drodze. 
 
 - - - 
 ## **Plaga teraz**  

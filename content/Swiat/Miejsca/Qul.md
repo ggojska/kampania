@@ -4,7 +4,7 @@ _– Obserwator z Plemienia Qulnara_
 
 - - -
 
-Dżungla Qul rozciąga się na TODO(południowych?) rubieżach świata, otaczając zapomniane ruiny pradawnych cywilizacji. Jej serce skrywa tajemnice nie tylko natury, ale także mocy nieznanych bogów. Zajmuje ogromny obszar, a jej granice pozostają nieznane, znikając w mgłach, które oplatają drzewa jak szal.
+Dżungla Qul rozciąga się na południowej części świata, otaczając zapomniane ruiny pradawnych cywilizacji. Jej serce skrywa tajemnice nie tylko natury, ale także mocy nieznanych bogów. Zajmuje ogromny obszar, a jej granice pozostają nieznane, znikając w mgłach, które oplatają drzewa jak szal.
 
 - - -
 

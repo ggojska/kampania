@@ -1,0 +1,6 @@
+
+Pochodzą z surowej i nieprzystępnej [[Północna Grań|Północnej Grani]], co ukształtowało ich kulturę opartą na przetrwaniu, honorze i więziach wspólnotowych. Orkowie są odporni na zimno, silni i wytrzymali, a ich społeczności opierają się na solidarności i współpracy. Są znani z głębokiego szacunku dla natury i surowego piękna swojego ojczystego terenu. Nie postrzegają przemocy jako celu samego w sobie – to narzędzie ochrony klanu lub tradycyjna forma rywalizacji.
+
+- **Kultura:** Orkowie wierzą, że ich przodkowie żyją w lodzie i górach. Tworzą plemiona, gdzie decyzje podejmują starszyzna i wojownicy, kierując się tradycją.
+- **Relacje:** Choć często błędnie postrzegani jako dzicy, Orkowie są otwarci na współpracę z innymi rasami, szczególnie jeśli te szanują ich sposób życia. Konflikty z Ludźmi i Krasnoludami wynikały głównie z nieporozumień lub sporów o ziemię i zasoby. Gobliny traktują jak najbliższych sobie wśród ras Henearu.
+- **Mocne strony:** Wytrzymałość, adaptacja do ekstremalnych warunków i lojalność wobec klanu.
