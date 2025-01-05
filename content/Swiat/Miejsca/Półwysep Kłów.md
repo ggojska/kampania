@@ -1,0 +1,6 @@
+
+Półwysep Kłów to surowy, niemal niedostępny region leżący na północny Henearu, na zachód od [[Kryształowe Szczyty|Kryształowych Szczytów]]. Jego nazwa pochodzi od charakterystycznych, spiczastych gór, które niczym kolce wyrastają z lodowej ziemi, tworząc ponury krajobraz. Wiele z tych skalistych szczytów jest owianych wieczną mgłą i zasypanych śniegiem, przez co wyglądają jak ogromne, zlodowaciałe kły.
+
+Liczne mroźne wiatry z Morza Północnego biją nieustannie w klify półwyspu, potęgując uczucie izolacji. Panujący tutaj klimat jest niezwykle surowy – śnieg i lód pokrywają ziemię przez większą część roku.
+
+Na końcu półwyspu, pośród spiczastych skał i lodowych urwisk, znajduje się miasto [[Nordwal]] – ostatnia osada przed nieprzebytymi lodowymi pustkowiami. Nordwal jest nie tylko schronieniem dla twardych mieszkańców, ale również kluczowym portem, który mimo niesprzyjających warunków utrzymuje kontakt z [[Lodowe Wyspy|Lodowymi Wyspami]]. Miasto znane jest z handlu rzadkimi minerałami i wyrobami z Szronowej Stali.
