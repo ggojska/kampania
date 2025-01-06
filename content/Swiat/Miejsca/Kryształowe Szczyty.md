@@ -1,0 +1,4 @@
+Kryształowe Szczyty to majestatyczne, lodowe góry wznoszące się na północno-zachodnim krańcu Henearu. Ich nazwa pochodzi od niezwykłych minerałów wyrastających z lodowca, przypominających kryształowe wieże, które połyskują w słońcu wszystkimi barwami tęczy. Wśród szczytów można znaleźć liczne, naturalne jaskinie oraz tunele, które krasnoludy z Żelaznego Jaru uważają za niezwykle cenne, ponieważ skrywają rzadkie surowce, w tym legendarne żyłki [[Czarny Kryształ|Czarnego Kryształu]].
+
+**Geografia:**  
+Kryształowe Szczyty są niemal nieprzerwanie pokryte lodem i śniegiem. Ich najwyższe wierzchołki przecinają chmury, a doliny pomiędzy nimi wypełnione są wiecznym mrokiem. Przełęcze są niebezpieczne, często zasypywane przez lawiny i nawiedzane przez silne wichry.
